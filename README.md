@@ -1,9 +1,10 @@
 My name is Krish Eswaran. I am a senior staff software engineer in [Google Research](https://research.google/people/krish-eswaran/) 
 and lead multiple teams focused on applications of deep learning, transformer-based architectures, and novel algorithms 
-on real-world problems, with applications in healthcare and other fields. Here is a recent preprint of the team's work.
+on real-world problems, with applications in healthcare and other fields. Here is a [recent preprint](https://arxiv.org/abs/2308.01317) 
+from our group's work.
 
 My teams' research broadly considers how the combination of AI accelerators, the latest machine learning methods, and
-large amounts of data to enable novel applications, including multimodal AI. We have also studied how AI will perform 
+large amounts of data to enable novel applications, including multimodal medical AI. We have also studied how AI will perform 
 in clinical settings, which you can read more about in 
 this [blog post](https://blog.google/technology/health/artificial-intelligence-breast-cancer-screening/).
 
