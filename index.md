@@ -2,7 +2,7 @@ My name is Krish Eswaran. I am a senior staff software engineer in [Google Resea
 and lead multiple teams focused on applications of deep learning, transformer-based architectures, and novel algorithms 
 on real-world problems, some of which has been published in the [_Nature_ family](https://www.nature.com/articles/s41598-021-93967-2)
 and health-focused journals. Here is a [recent preprint](https://arxiv.org/abs/2308.01317) 
-from our group's work in multimodal medical AI. We have also studied how AI will perform 
+from our group's work in multimodal medical AI. We have also studied how these solutions will perform 
 in clinical settings, which you can read more about in 
 this [blog post](https://blog.google/technology/health/artificial-intelligence-breast-cancer-screening/).
 
