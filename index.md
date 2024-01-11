@@ -12,7 +12,7 @@ parallel media transcoding pipeline that powered live streaming of the 2012 Lond
 [Engineering Emmy](https://www.tubefilter.com/2013/10/21/youtube-technology-and-engineering-emmy-award/).
 
 Prior to Google, I received a PhD in Electrical Engineering and Computer Sciences at the University of California, 
-Berkeley, focused on information theory. You can find my  
-[papers and patents on Google Scholar](https://scholar.google.com/citations?user=I5gPRf0AAAAJ&hl=en).
+Berkeley, focused on information theory. You can find my [papers and patents](https://scholar.google.com/citations?user=I5gPRf0AAAAJ&hl=en) 
+on Google Scholar.
 
 In my spare time, you might find me biking, cooking, or [performing comedy](https://www.youtube.com/watch?v=ieTduFNExQ0). 
