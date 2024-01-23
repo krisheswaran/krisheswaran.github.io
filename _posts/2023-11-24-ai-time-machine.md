@@ -19,11 +19,11 @@ It turns out that this rendering process is differentiable, so
 the same ML frameworks and hardware used to train AI models work here. 
 
 And with that, I was off. After some pre-processing of the video and training the model, I was able to linger in the hallway.
-<video src="https://github.com/krisheswaran/krisheswaran.github.io/assets/22381514/a04e7da0-040b-4a7a-9c2e-0e52d2d22e92" type="video/mp4">
+<video src="https://github.com/krisheswaran/krisheswaran.github.io/assets/22381514/a04e7da0-040b-4a7a-9c2e-0e52d2d22e92" type="video/mp4" controls>
 </video>
 
 Pretty soon, I found my way back to my grad school studio, and even naivgated our own home in San Francisco.
-<video src="https://github.com/krisheswaran/krisheswaran.github.io/assets/22381514/b8a93487-255f-4e88-a5d2-70e493a50722" type="video/mp4">
+<video src="https://github.com/krisheswaran/krisheswaran.github.io/assets/22381514/b8a93487-255f-4e88-a5d2-70e493a50722" type="video/mp4" controls>
 </video>
 
 As a manager of managers, my day job no longer offers the opportunity to train models or write code, so I feel like I've gone 
