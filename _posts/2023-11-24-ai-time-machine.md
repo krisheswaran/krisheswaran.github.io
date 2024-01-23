@@ -22,7 +22,7 @@ And with that, I was off. After some pre-processing of the video and training th
 <video src="https://github.com/krisheswaran/krisheswaran.github.io/assets/22381514/a04e7da0-040b-4a7a-9c2e-0e52d2d22e92" type="video/mp4" controls>
 </video>
 
-Pretty soon, I found my way back to my grad school studio, and even naivgated our own home in San Francisco.
+Pretty soon, I found my way back to my grad school studio, and even navigated our own home in San Francisco.
 <video src="https://github.com/krisheswaran/krisheswaran.github.io/assets/22381514/b8a93487-255f-4e88-a5d2-70e493a50722" type="video/mp4" controls>
 </video>
 
