@@ -13,7 +13,7 @@ and I would hide out as children just to pop out and startle each other on the w
 were easily entertained).
 Thankfully, there was a [paper that might allow me to construct such a time machine](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/).
 
-My time machine would be a virtual one. In step one, I would use the approach in the paper to train 3D models of scenes.
+My time machine would be a virtual one. In step one, I would use the approach in the paper to produce 3D models of scenes.
 In step two, I would navigate the 3D scene via a video game rendering engine. In particular, the paper explains how to model the scene 
 as a collection of 3-dimensional Gaussians; the final scene is rendered by projecting these Gaussians into a 2D view and then alpha compositing. 
 It turns out that this rendering process is differentiable, so the same ML frameworks and hardware used to train AI models work here. 
