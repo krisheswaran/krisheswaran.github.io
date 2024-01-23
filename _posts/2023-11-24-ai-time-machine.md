@@ -9,7 +9,8 @@ My dad had been converting his old 8mm camcorder tapes into MP4 video, and this 
 that had emerged from the time capsule.
 
 As I watched the shaky video, I wanted to linger in the hallway, and the hidden corner where my sister 
-and I would hide out in waiting as children to pop out and startle each other on the way to our bedrooms. 
+and I would hide out as children just to pop out and startle each other on the way to our bedrooms (we 
+were easily entertained).
 Thankfully, there was a [paper that might allow me to construct such a time machine](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/).
 
 My time machine would be a virtual one. In step one, I would use the approach in the paper to train 3D models of scenes.
