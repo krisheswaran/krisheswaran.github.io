@@ -1,5 +1,5 @@
 ---
-title: "My AI Time Machine (or how I turned videos into video games)"
+title: "My AI Time Machine (or my code for turning videos into video games)"
 date: 2023-11-24
 ---
 
