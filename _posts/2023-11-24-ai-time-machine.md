@@ -26,5 +26,5 @@ Pretty soon, I found my way back to my grad school studio apartment, and even fl
 <video src="https://github.com/krisheswaran/krisheswaran.github.io/assets/22381514/b8a93487-255f-4e88-a5d2-70e493a50722" type="video/mp4" controls>
 </video>
 
-As a manager of managers, my day job no longer offers the opportunity to train models or write code, so I feel like I've gone 
-back in time just by engaging in this project, but it sure does feel like the future.
+As a manager of managers, my day job no longer offers the opportunity to train models or write code. So I feel like I've gone 
+back in time just by working on this project. But it sure does feel like the future.
