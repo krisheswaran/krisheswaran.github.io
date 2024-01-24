@@ -6,8 +6,6 @@ about our group's work in multimodal medical AI. We have also studied how these 
 in clinical settings, which you can read more about in 
 this [blog post](https://blog.google/technology/health/artificial-intelligence-breast-cancer-screening/).
 
-[![Multimodal Medical AI talk](https://img.youtube.com/vi/nYSOl1TEXvk/1.jpg)](https://www.youtube.com/watch?v=nYSOl1TEXvk)
-
 I have been fortunate to work in a number of teams incubating new ideas at Google, including (in reverse chronological 
 order) Google Health, Google Fiber, and YouTube. At YouTube, I was the technical lead for the 
 parallel media transcoding pipeline that powered live streaming of the 2012 London Olympic Games and won YouTube an
@@ -18,8 +16,6 @@ Berkeley, focused on information theory. You can find my [papers and patents](ht
 on Google Scholar.
 
 In my spare time, you might find me biking, cooking, or [performing comedy](https://www.youtube.com/watch?v=ieTduFNExQ0).
-
-[![Just Nuts](https://img.youtube.com/vi/ieTduFNExQ0/1.jpg)](https://www.youtube.com/watch?v=ieTduFNExQ0)
 
 All of the opinions on this blog are my own. They do not necessarily reflect the views of my employer.
 
