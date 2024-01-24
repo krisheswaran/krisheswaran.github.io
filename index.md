@@ -1,10 +1,9 @@
 My name is Krish Eswaran. I am a senior staff software engineer in [Google Research](https://research.google/people/krish-eswaran/) 
-and lead multiple teams focused on applications of deep learning, transformer-based architectures, and novel algorithms 
-on real-world problems, some of which has been published in the [_Nature_ family](https://www.nature.com/articles/s41598-021-93967-2)
+and lead multiple teams focused on applying artificial intelligence to solve real-world problems, 
+some of which has been published in the [_Nature_ family](https://www.nature.com/articles/s41598-021-93967-2)
 and health-focused journals. Here is a [recent talk](https://www.youtube.com/watch?v=nYSOl1TEXvk) 
-about our group's work in multimodal medical AI. We have also studied how these solutions will perform 
-in clinical settings, which you can read more about in 
-this [blog post](https://blog.google/technology/health/artificial-intelligence-breast-cancer-screening/).
+about our group's work in multimodal medical AI. We have also studied how [these solutions will perform 
+in clinical settings](https://blog.google/technology/health/artificial-intelligence-breast-cancer-screening/).
 
 I have been fortunate to work in a number of teams incubating new ideas at Google, including (in reverse chronological 
 order) Google Health, Google Fiber, and YouTube. At YouTube, I was the technical lead for the 
