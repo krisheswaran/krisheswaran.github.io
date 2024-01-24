@@ -8,7 +8,7 @@ It had been sold over a decade ago, and was subsequently hit by a tree during Hu
 My dad had been converting his old 8mm camcorder tapes into MP4 video, and this was one of the relics 
 that had emerged from the time capsule.
 
-![8mm camcorder input](input_8mm.gif)
+![8mm camcorder input](https://krisheswaran.github.io/input_8mm.gif)
 
 As I watched the shaky video, I wanted to linger in the hallway, and the hidden corner where my sister 
 and I would hide out as children just to pop out and startle each other on the way to our bedrooms (we 
