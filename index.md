@@ -1,7 +1,7 @@
 My name is Krish Eswaran. I am a senior staff software engineer in [Google Research](https://research.google/people/krish-eswaran/) 
 and lead multiple teams focused on applying artificial intelligence to solve real-world problems, 
 some of which have been published in the [_Nature_ family](https://www.nature.com/articles/s41598-021-93967-2)
-and health-focused journals. Here is a [recent talk](https://www.youtube.com/watch?v=nYSOl1TEXvk) 
+and health-focused journals (e.g. [_The Lancet_ family](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00227-3/fulltext)). Here is a [recent talk](https://www.youtube.com/watch?v=nYSOl1TEXvk) 
 about our group's work in multimodal medical AI. We have also studied how [these solutions will perform 
 in clinical settings](https://blog.google/technology/health/artificial-intelligence-breast-cancer-screening/).
 
