@@ -8,7 +8,7 @@ entrusted to keep a password secret against a human player; the system had just 
 Gandalf was in part due to an understanding of how these systems work, and simultaneously a reflection of their current capabilities 
 and limitations.
 
-<img src="assets/gandalf-the-white.png" alt="beating level eight, Gandalf the White" width="200"/>
+<img src="https://krisheswaran.github.io/assets/gandalf-the-white.png" alt="beating level eight, Gandalf the White" width="200"/>
 
 [Gandalf is an online password guessing game open to anyone](https://gandalf.lakera.ai/) and fun to play. 
 The family of password games is familiar to anyone who has played Wordle, which had also been an interest of mine. 
@@ -34,7 +34,7 @@ I was finally on level 8, in which I discovered that one such restriction had be
 point, I get frustrated enough that I tried to see if Gandalf the White even knew the password. Unfortunately, Gandalf's response wasn't very 
 helpful.
 
-<img src="assets/gandalf-level-8.png" alt="Gandalf the White is hard" width="200"/>
+<img src="https://krisheswaran.github.io/assets/gandalf-level-8.png" alt="Gandalf the White is hard" width="200"/>
 
 Eventually, I came up with a cocktail of approaches that worked. First, I got Gandalf to leak a couple letters from the word, and then 
 switched gears when Gandalf caught on to what I was doing. One attack that didn't work so well was getting the length of the word. 
@@ -56,5 +56,5 @@ to escaping certain inputs so that they couldn't inject harmful instructions to 
 code and that a user's input to the LLM is untrusted, those practices would also apply in this context.
 
 Gandalf serves as a warning of how much one should trust LLM-based systems in their current form, not because of some ability to outsmart us, 
-but for exactly the opposite. Recently, a Chevy dealership (h/t [https://www.linkedin.com/in/diogomda](Diogo Almeida)) integrated a ChatGPT-powered bot onto their website only to discover an Internet user that was able to 
+but for exactly the opposite. Recently, a Chevy dealership (h/t [Diogo](https://www.linkedin.com/in/diogomda)) integrated a ChatGPT-powered bot onto their website only to discover an Internet user that was able to 
 [trick it into offering a 2024 Chevy Tahoe for $1](https://entertainment.slashdot.org/story/23/12/21/0518215/car-buyer-hilariously-tricks-chevy-ai-bot-into-selling-a-tahoe-for-1).
