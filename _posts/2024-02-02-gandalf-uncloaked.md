@@ -30,15 +30,15 @@ prompt containing the password, or to at least leak information about it so that
 For instance, in one level, I started asking Gandalf to provide certain outputs in Tamil, under the assumption that the translation back to English 
 would be too cryptic for the censoring system to detect that information about the password had been leaked.
 
-I was finally on level 8, in which I discovered that one such restriction had been introduced: Gandalf would only respond in English. At one 
-point, I get frustrated enough that I tried to see if Gandalf the White even knew the password. Unfortunately, Gandalf's response wasn't very 
-helpful.
+With this mix of tricks, I made it to level 8, in which I discovered a new restriction had been introduced: Gandalf would only respond in English. Moreover, many of my other prompts to trick Gandalf into divulging certain letters also stopped working. At one 
+point, I get frustrated enough that I started to doubt whether Gandalf the White even knew the password.
 
 <img src="https://krisheswaran.github.io/assets/gandalf-level-8.png" alt="Gandalf the White is hard" width="200"/>
 
-Eventually, I came up with a cocktail of approaches that worked. First, I got Gandalf to leak a couple letters from the word, and then 
+Eventually, I came up with a cocktail of approaches that worked. First, I found a way for Gandalf to leak a couple letters from the password, and then 
 switched gears when Gandalf caught on to what I was doing. One attack that didn't work so well was getting the length of the word. 
-While Gandalf appeared to be willing to provide the answer when it was phrased the right way, the spread of the answer was quite large, perhaps a 
+While Gandalf appeared to be willing to provide an answer when it was phrased the right way, that answer could change from being a relatively small 
+number of letters to a fairly large one, perhaps a 
 reflection of the fact that the [tokenization process](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization) coupled with the 
 data used to train the LLM wasn't well suited to answer this kind of question, ambiguity in my prompt that allowed for 
 multiple answers to be possible, or maybe something else entirely. Whatever the reason for these hallucinations, I needed to try something else. 
