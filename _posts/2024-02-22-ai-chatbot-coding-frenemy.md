@@ -33,19 +33,21 @@ Help me comment this code in a way that follows the Google Python style guide
 
 The output effectively refactored my code along with comments that helped me
 understand exactly what I had done, along with why I had done it. As I went 
-through the comments. Then for an encore, I decided to follow it up by 
-providing my unit tests with this prompt:
+through the comments, I found myself understanding the code. An LLM-based
+chatbot had made my code more readable to me. Then for an encore, I decided to
+ follow it up by providing my unit tests with this prompt:
 
 ```
 That's my unit test. Could you bulk it up to create a more comprehensive test of my code
 ```
 
-What resulted was a comprehensive set of unit tests, and I looked at everything
+What resulted was a comprehensive set of unit tests. I looked at everything
 that had just taken place, realizing that what might have been the product of 
 a day or two at work, including a back and forth with code reviewers, had just 
-been handed to me via a couple of prompts.
+been handed to me via a couple of prompts. I called Aarti into the room,
+ showed her what had happened, and introduced her to my new friend.
 
-So I copied the code back into my workspace and ran the tests. They failed.
+So I copied the code back into my workspace and ran the tests. They FAILED. Ugh.
 I also noticed that within my workspace, the code didn't strictly adhere to 
 parts of the style guide like the 80 character line limit, causing me to resize
 some of my terminal windows (did I mention that Vim is my go to IDE sometimes?).
@@ -72,7 +74,8 @@ So I went in and thought through each test case, and within about an hour, had
 fixed everything so that the tests were passing. Also, tools like _pylint_ made
 it easier to fix some of the smaller errors that my AI assistant had made with
  the formatting. In total, I had saved time on coding, but some of the magic 
-and my trust in the LLM were diminished.
+and my trust in the LLM were diminished. Aarti saw my face, and asked how
+ things were going with my new friend. Frenemy, I responded.
 
 Incidentally, as I was finishing up the code,
  [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy) had just
