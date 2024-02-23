@@ -77,9 +77,8 @@ it easier to fix some of the smaller errors that my AI assistant had made with
 and my trust in the LLM were diminished. Aarti saw my face, and asked how
  things were going with my new friend. Frenemy, I responded.
 
-Incidentally, as I was finishing up the code,
- [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy) had just
- posted a
- [video about tokenization](https://www.youtube.com/watch?v=zduSFxRajkE),
- and my experience was the perfect motivation to 
-watch it.
+As I was finishing up the code, YouTube's recommender system popped
+ [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy)'s latest 
+ [tokenization video](https://www.youtube.com/watch?v=zduSFxRajkE) to the top
+of my queue. It was the perfect avenue to commisserate about our mutual 
+frustration.
