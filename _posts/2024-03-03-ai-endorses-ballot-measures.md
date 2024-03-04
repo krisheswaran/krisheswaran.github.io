@@ -1,5 +1,5 @@
 ---
-title: "What Ballot Initiatives Are You Voting For, AI?"
+title: "What Ballot Initiatives Should I Vote For, AI?"
 date: 2024-03-03
 ---
 
