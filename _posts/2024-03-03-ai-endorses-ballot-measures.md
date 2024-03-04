@@ -28,9 +28,11 @@ primary, which has a number of local measures. What has changed in that time
 has been the number of groups that have created voter guides and endorsed
 different ballot initiatives. As I looked online, though, I noticed that 
 some of my sources, like [SPUR](https://www.spur.org/voter-guide/2024-03), were
-only endorsing a subset of initiatives this time and taking no position on
-intitiatives like Prop E, which contained a number of sub-proposals and would
- require some research.
+only endorsing a subset of initiatives this time. While I don't always agree 
+with SPUR, I've found there analysis on the pros and cons of different ballot
+measures helpful, and it looked like they weren't even providing this for the 
+measures they weren't endorsing. This included Prop E, which contains a number
+ of sub-proposals and would require some research.
 
 As I started my researchn into a spreadsheet, I noticed that I had a number of
 other sheets
@@ -44,8 +46,8 @@ On a whim, I started putting together a
 the data and see how well it would do in predicting endorsements from a held
  out set. Unfortunately, I couldn't find a list of my past votes, so the system
  would create respond with recommendations, where the voter personas would be
-for SPUR, [https://www.theleaguesf.org/#propc](The League),
-[The Chronicle](https://www.sfchronicle.com/projects/2024/california-primary-election-endorsements/), 
+for SPUR, the [League](https://www.theleaguesf.org/#propc), the
+[Chronicle](https://www.sfchronicle.com/projects/2024/california-primary-election-endorsements/), 
 and other sites that have at some point put together voter guides. The features
 to the model were based on BERT embeddings of the free text information that I
 had collected in those spreadsheets about the ballot initiative.
@@ -67,10 +69,11 @@ With the election only a few days away, the data cleanup felt a bit too much
  curious to see how the model would predict SPUR's endorsement of Prop E, the
 one on which SPUR had refused to take a position one way or the other. When I
  looked at the outputs on the held
- out set (note that I had held out all of 2024), nearly all of them (with the
- exception of one) assigned either > 0.9 (high probability of a YES endorsement)
-or < 0.1 (high probability of a NO endorsement), which meant that the model
-was taking a pretty strong position on the opinion of a particular site. Then I
-figured out which row and column in my output matrix corresponded to the
-SPUR's Prop E prediction, and it turned out to be the exception. For that one,
+ out set (note that I had held out all of 2024), the model had assigned 
+nearly all of them a probability > 0.9 (likely YES endorsement)
+or < 0.1 (likely NO endorsement). Despite the noted problems with the model
+itself, I was nonetheless quite excited to see how it had placed it's bet on
+ SPUR and Prop E. I cross-referenced the correct row and column corresponding
+to SPUR's Prop E prediction and realized than that it was the one exception in 
+that my model had not assigned a high or low probability to. Instead,
 the model had assigned a probability of 0.4821, almost a fair coin toss.
