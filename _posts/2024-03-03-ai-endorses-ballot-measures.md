@@ -74,17 +74,18 @@ While I had some ideas on how to address these challenges, with the election onl
  like procrastinating on the actual task of how I would vote. Still, I was
  curious to see how the model had predicted SPUR's endorsement of Prop E, the
 one on which SPUR had refused to take a position one way or the other. When I
- looked at the outputs on the held
- out set (I had held out all of 2024), the model had assigned 
+ looked at the model's predictions on 2024 ballot initiatives (I had held out all of 2024), the model had assigned 
 nearly all of them a probability > 0.9 (likely YES endorsement)
 or < 0.1 (likely NO endorsement). Despite the noted problems with the model
-itself, I was nonetheless quite excited to see how it had placed it's bet on
+itself, I was nonetheless quite excited to see how it had placed its bet on
  SPUR and Prop E. I cross-referenced the correct row and column corresponding
 to SPUR's Prop E prediction and realized then that it was the one exception for 
 which the model had not assigned a high or low probability. Instead,
 the model had assigned a probability of 0.4821, refusing to take a position one
-way or the other. After my efforts, I sought out a zero-shot opinion on the
- matter via ChatGPT, which provided a few paragraphs of analysis followed by
+way or the other. 
+
+After my efforts, I sought out a zero-shot opinion on the
+ matter via ChatGPT because why not? It provided a few paragraphs of analysis followed by
 the following statement: "As of now, there hasn't been a specific recommendation
  from SPUR (San Francisco Bay Area Planning and Urban Research Association) or a
- direct statement on their stance regarding Proposition E."
+ direct statement on their stance regarding Proposition E." I returned to my ballot research.
