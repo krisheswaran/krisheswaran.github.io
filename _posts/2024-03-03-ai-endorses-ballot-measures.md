@@ -83,4 +83,8 @@ itself, I was nonetheless quite excited to see how it had placed it's bet on
 to SPUR's Prop E prediction and realized then that it was the one exception for 
 which the model had not assigned a high or low probability. Instead,
 the model had assigned a probability of 0.4821, refusing to take a position one
-way or the other.
+way or the other. After my efforts, I sought out a zero-shot opinion on the
+ matter via ChatGPT, which provided a few paragraphs of analysis followed by
+the following statement: "As of now, there hasn't been a specific recommendation
+ from SPUR (San Francisco Bay Area Planning and Urban Research Association) or a
+ direct statement on their stance regarding Proposition E.."
