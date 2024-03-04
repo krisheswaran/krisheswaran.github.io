@@ -87,4 +87,4 @@ way or the other. After my efforts, I sought out a zero-shot opinion on the
  matter via ChatGPT, which provided a few paragraphs of analysis followed by
 the following statement: "As of now, there hasn't been a specific recommendation
  from SPUR (San Francisco Bay Area Planning and Urban Research Association) or a
- direct statement on their stance regarding Proposition E.."
+ direct statement on their stance regarding Proposition E."
