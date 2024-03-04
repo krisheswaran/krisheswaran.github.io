@@ -16,7 +16,10 @@ on Google Scholar.
 
 In my spare time, you might find me biking, cooking, or [performing comedy](https://www.youtube.com/watch?v=ieTduFNExQ0).
 
-All of the opinions on this blog are my own. They do not necessarily reflect the views of my employer.
+All of the opinions on this blog are my own, They do not necessarily reflect
+ the views of my employer.
+For those interested in subscribing via email, take a look at my
+ [my substack](https://krisheswaran.substack.com/).
 
 # Contact
 
