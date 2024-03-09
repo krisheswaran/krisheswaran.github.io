@@ -49,7 +49,7 @@ I’ve thought back to these examples when thinking about how the AI landscape
 then one could image a a business model similar to an ISP’s connection to
  the home.[^1]
 
-[^1] There is also a world in which either some of those costs do not come down and/or some data to train these models needs to be purchased/licensed, in which case the business model may resemble something more like TV service.
+[^1]: There is also a world in which either some of those costs do not come down and/or some data to train these models needs to be purchased/licensed, in which case the business model may resemble something more like TV service.
 
 What about downstream business customers of these AI services? If the costs of serving these models cut significantly into their margins, then they are in a similar position to the TV service. Options available to them may  include making up for the lower margins through higher volumes, bundling their AI product with a higher margin offering, or developing a strategy in which the cost associated with using these models does not scale with the size of their business.
 
