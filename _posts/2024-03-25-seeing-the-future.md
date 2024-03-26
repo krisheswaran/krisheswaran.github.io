@@ -10,19 +10,21 @@ to
 
 Rewatching old episodes of
 [Beyond 2000](https://en.wikipedia.org/wiki/Beyond_Tomorrow_(TV_series)) offers
-a window into how future versions of ourselves might view the current moment, 
-as well as the different strategies companies took to try to introduce novel
+a window into how future versions of ourselves might view the current moment 
+through the different strategies companies took to try to introduce novel
 ideas into the market. Many of the designs end up being either an accessible 
 wedge for the later disruptive technology (e.g. Kodak photo CDs for analog
 cameras) or a bit too forward-looking to be practical (the wearable computer 
-that holds a CD player).
+that holds a CD player). In each of these cases, the disruptive technologies 
+that would pave the way for these technologies to actually catch on had yet to
+be developed.
 
 I've been thinking a lot about how to find the sweet spot in technology that
  both shows the future while capturing value to benefit people today. 
 Does it start by showcasing 
  [the art of the possible](https://pubmed.ncbi.nlm.nih.gov/31894144/) and then
  adapting those concepts into
- [real world use cases](https://blog.google/technology/health/artificial-intelligence-breast-cancer-screening/).
+ [real world use cases](https://blog.google/technology/health/artificial-intelligence-breast-cancer-screening/)?
 Who are the partners one can engage with to get early feedback on whether an 
 idea is moving in the right direction? Here, I've come across another video, an 
 interview of
