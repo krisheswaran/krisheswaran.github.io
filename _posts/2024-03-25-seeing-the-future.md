@@ -14,10 +14,10 @@ a window into how future versions of ourselves might view the current moment
 through the different strategies companies took to try to introduce novel
 ideas into the market. Many of the designs end up being either an accessible 
 wedge for the later disruptive technology (e.g. Kodak photo CDs for analog
-cameras) or a bit too forward-looking to be practical (the wearable computer 
+cameras) or a bit too forward-looking to be practical (the bulky wearable
+ computer 
 that holds a CD player). In each of these cases, the disruptive technologies 
-that would pave the way for these technologies to actually catch on had yet to
-be developed.
+that would pave the way for large-scale adoption had yet to be developed.
 
 I've been thinking a lot about how to find the sweet spot in technology that
  both shows the future while capturing value to benefit people today. 
