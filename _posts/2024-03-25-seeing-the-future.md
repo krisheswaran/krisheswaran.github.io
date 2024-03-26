@@ -5,7 +5,7 @@ date: 2024-03-25
 
 In the early nineties, I saw a glimpse of what it would be like 
 to 
-[carry a smartphone in the not-too-distant future](https://www.youtube.com/watch?v=qbK-Bo3k9KQ). Several weeks later, I saw a window into a future with
+[carry a smartphone in the not-too-distant future](https://www.youtube.com/watch?v=qbK-Bo3k9KQ). Several weeks later, I saw a future with
 [digital photos and car-based GPS systems](https://www.youtube.com/watch?v=NCGmxk3H44g).
 
 Rewatching old episodes of
