@@ -10,9 +10,10 @@ to
 
 Rewatching old episodes of
 [Beyond 2000](https://en.wikipedia.org/wiki/Beyond_Tomorrow_(TV_series)) offers
-a window into how future versions of ourselves might view the current moment 
-through the different strategies companies took to try to introduce novel
-ideas into the market. Many of the designs end up being either an accessible 
+a window into how future versions of ourselves might view the current moment.
+Through the episodes, one can learn about the different strategies companies
+ took to try to introduce novel
+ideas into the market. Many of the designs ended up being either an accessible 
 wedge for the later disruptive technology (e.g. Kodak photo CDs for analog
 cameras) or a bit too forward-looking to be practical (the bulky wearable
  computer 
