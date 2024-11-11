@@ -10,7 +10,7 @@ in clinical settings](https://blog.google/technology/health/artificial-intellige
 
 I have been fortunate to work on projects incubating new ideas at Google, including (in reverse chronological 
 order) Google Health, Google Fiber, and YouTube. At YouTube, I was the technical lead for the 
-parallel media transcoding pipeline that powered live streaming of the 2012 London Olympic Games and won YouTube an
+parallel media transcoding pipeline that powered [live streaming of the 2012 London Olympic Games](https://www.sfgate.com/tech/article/youtube-streams-olympics-to-64-nations-3758791.php) and won YouTube an
 [Engineering Emmy](https://www.tubefilter.com/2013/10/21/youtube-technology-and-engineering-emmy-award/).
 
 Prior to Google, I received a PhD in Electrical Engineering and Computer Sciences at the University of California, 
